@@ -30,3 +30,7 @@
 - 光猫地区切换和配置管理
 - 批量设备维护
 - 网络调试和故障排查
+
+下载地址:
+https://wwaph.lanzouu.com/b00uzq8vda
+密码:9qxd
